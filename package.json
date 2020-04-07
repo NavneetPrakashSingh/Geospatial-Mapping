@@ -2,6 +2,7 @@
   "name": "geospatialmapping",
   "private": true,
   "version": "0.0.1",
+  "heroku-prebuild": "npm install --dev",
   "engines": {
     "node": "10.15.3"
   },
